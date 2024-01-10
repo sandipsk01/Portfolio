@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest is in&nbsp;
               <i>
-                <b className="purple">Informatin Technology, primarily in Web Technology.</b>
+                <b className="purple">Information Technology, primarily in Web Technology.</b>
               </i>
               <br />
               <br />
